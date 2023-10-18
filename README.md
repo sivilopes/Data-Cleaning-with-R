@@ -1,5 +1,4 @@
-# Data-Cleaning-with-R 
-- Academic Project
+# Data-Cleaning-with-R - Academic Project
 Cleaning a movie dataset using R.
 
 
