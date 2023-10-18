@@ -1,4 +1,4 @@
-# Data-Cleaning-with-R
+# Data-Cleaning-with-R - Academic Project
 Cleaning a movie dataset using R.
 
 
@@ -8,3 +8,5 @@ Cleaning a movie dataset using R.
 2. Data Cleaning with R.Rmd - R Markdown file.
 3. Data-Cleaning-with-R.pdf - Report explaining the process created in RStudio. 
 4. Movies_dataset_cleaned.csv - Dataset after cleaning process. 
+
+
