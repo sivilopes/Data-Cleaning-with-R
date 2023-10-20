@@ -18,7 +18,7 @@ options(scipen=9)
 
 # Configuring the working directory.
 knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_knit$set(root.dir = 'C:/Users/sivil/OneDrive/Portfolios - Si/projects/Data Cleaning with R')
+knitr::opts_knit$set(root.dir = '.../Data Cleaning with R')
 
 # Install Libraries/Packages
 if(!require(knitr)){install.packages("knitr")}
